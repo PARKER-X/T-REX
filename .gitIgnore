@@ -1,1 +1,11 @@
 phase/
+venv/
+__pycache__/
+checkpoints/
+experiments/
+*.pt
+*.ckpt
+*.log
+.DS_Store
+*.swp
+.vscode/
