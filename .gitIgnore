@@ -1,6 +1,7 @@
 phase/
 daysDoc/
 othersideas/
+pretraining_hindi_english_normalized.txt
 venv/
 __pycache__/
 checkpoints/
@@ -11,3 +12,4 @@ experiments/
 .DS_Store
 *.swp
 .vscode/
+chunk_*.txt

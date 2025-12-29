@@ -1,0 +1,10 @@
+Datasets:
+https://www.kaggle.com/datasets/mathurinache/samanantar/data 
+https://www.kaggle.com/datasets/pk13055/code-mixed-hindienglish-dataset/data 
+https://www.kaggle.com/datasets/vaibhavkumar11/hindi-english-parallel-corpus 
+https://www.kaggle.com/datasets/crazydiv/oldnewspapershindi 
+https://www.kaggle.com/datasets/adityavinchhi/premchand-books 
+https://www.kaggle.com/datasets/pulkitsharma2040/english-to-hindi-translations 
+https://www.kaggle.com/datasets/disisbig/hindi-wikipedia-articles-172k 
+https://www.kaggle.com/datasets/aadisrivastava/bbc-hindi-news-articles-dataset-detailed 
+https://www.kaggle.com/datasets/prateekagrawal1405/hindi-wikipedia-articles-172k-csv
